@@ -9,8 +9,11 @@ Welcome to Schede laboratorio di scienza's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :caption: Schede esperimenti laboratorio di scienze
 
+   /cartella_00/01_volgoccia.rst
+   /cartella_00/03_miscugli.rst
 
 
 Indices and tables
