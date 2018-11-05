@@ -1,6 +1,9 @@
 MISURIAMO IL VOLUME DI UNA GOCCIA D’ACQUA
 =========================================
 
+.. note::
+   **TEMPO**: 20 minuti
+
 L’esperimento può essere eseguito a gruppi, ad esempio cinque, oppure ripetuto più volte per ottenere un risultato più preciso.
 
 CHE COSA SERVE
@@ -32,8 +35,5 @@ Ogni gruppo ha ottenuto un valore del volume di una goccia diverso dagli altri. 
    **Come lo spiego**
    
    Quando si misurano grandezze molto piccole, come in questo caso, è facile compiere degli errori sperimentali. Ad esempio si può non essere tutti d’accordo di avere effettivamente raggiunto la tacca sul cilindro graduato. Per ridurre gli errori sperimentali, uno dei metodi più utilizzati consiste nel calcolare la media aritmetica di più valori ottenuti. Un maggior numero di misurazioni permette di ottenere misure ancora più attendibili.
-
-.. note::
-   **TEMPO**: 20 minuti
 
 
