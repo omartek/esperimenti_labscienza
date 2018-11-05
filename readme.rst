@@ -28,8 +28,9 @@ Ordinare i documenti in sottocartelle in base ai temi delle schede e creare una 
 
 Le sottocartelle conterranno i file ed eventuali immagini. Queste verranno salvate in una sottocartella /images ed avranno lo stesso nome file del file .rst a cui si riferiscono ed eventualmente, se sono presenti più di una immagine, un numero progressivo: *nomefile01.jpg*.
 
-.. |image01| image:: ./PhiYV.png
-  :height: 200 px:
-  :height: 200 px:
-  :alt: alternate text
-  :align: right
+.. |image01| image:: PhiYV.png
+             :height: 200 px
+             :height: 200 px
+             :scale: 100 %
+             :alt: alternate text
+             :align: right
