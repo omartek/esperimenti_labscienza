@@ -31,9 +31,9 @@ Le sottocartelle conterranno i file ed eventuali immagini. Queste verranno salva
 
 
 .. |image01| image:: PhiYV.png
-             :height: 200
-             :width: 100
-             :scale: 50
+             :height: 200 px
+             :width: 100 px
+             :scale: 50 %
 
 .. _Sphinx: http://www.sphinx-doc.org/en/master/
 .. _reST: http://docutils.sourceforge.net/rst.html
