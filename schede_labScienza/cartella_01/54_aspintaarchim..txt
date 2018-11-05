@@ -2,41 +2,30 @@ CALCOLIAMO LA SPINTA
 
 CHE COSA SERVE
 
-Un dinamometro, un sasso legato con una cordicella, un cilindro graduato
-di diametro sufficientemente grande da poter accogliere il sasso, acqua.
+Un dinamometro, un sasso legato con una cordicella, un cilindro graduato di diametro sufficientemente grande da poter accogliere il sasso, acqua.
 
 COME SI PROCEDE
 
-Appendiamo il sasso al dinamometro e pesiamolo (peso fuori dall’acqua) e
-sia ad esempio:
+Appendiamo il sasso al dinamometro e pesiamolo (peso fuori dall’acqua) e sia ad esempio:
 
 P₁= 270 g PESO DEL SASSO FUORI DALL’ACQUA
 
-Riempiamo il cilindro graduato con una quantità nota di acqua e
-immergiamo in esso il sasso sempre appeso al dinamometro, registriamo il
-peso del sasso e il volume d’acqua spostata che risulta uguale al volume
-del sasso e sia ad esempio:
+Riempiamo il cilindro graduato con una quantità nota di acqua e immergiamo in esso il sasso sempre appeso al dinamometro, registriamo il peso del sasso e il volume d’acqua spostata che risulta uguale al volume del sasso e sia ad esempio:
 
 P₂= 170 g PESO DEL SASSO IN ACQUA
 
 V= 100 cm³ VOLUME D’ACQUA SPOSTATA
 
-Osserviamo che la differenza di peso fuori dall’acqua e in acqua del
-sasso vale esattamente 100 g, infatti
+Osserviamo che la differenza di peso fuori dall’acqua e in acqua del sasso vale esattamente 100 g, infatti
 
 P₁-P₂= 270-170= 100 g
 
 CHE COSA OSSERVO
 
-L’intensità della spinta idrostatica vale quindi 100 g-peso e il sasso
-affonda nell’acqua.
+L’intensità della spinta idrostatica vale quindi 100 g-peso e il sasso affonda nell’acqua.
 
 COME LO SPIEGO
 
-Il sasso affonda perché la spinta è minore del suo peso; d’altra parte
-sappiamo che 1 ml d’acqua pesa esattamente 1 g, inoltre 1 ml= 1 cm³ per
-cui il peso del volume d’acqua spostata è proprio 100 g che coincide
-esattamente col valore della spinta come affermato dal principio di
-Archimede.
+Il sasso affonda perché la spinta è minore del suo peso; d’altra parte sappiamo che 1 ml d’acqua pesa esattamente 1 g, inoltre 1 ml= 1 cm³ per cui il peso del volume d’acqua spostata è proprio 100 g che coincide esattamente col valore della spinta come affermato dal principio di Archimede.
 
 TEMPO: 20 minuti

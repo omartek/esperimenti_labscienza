@@ -2,20 +2,15 @@ CALCOLIAMO LA SPINTA DI ARCHIMEDE
 
 CHE COSA SERVE
 
-Un dinamometro, un sasso legato con una cordicella, un cilindro
-graduato, acqua
+Un dinamometro, un sasso legato con una cordicella, un cilindro graduato, acqua
 
 COME SI PROCEDE
 
-Appendiamo il sasso al dinamometro e pesiamolo fuori dall’acqua e sia ad
-esempio:
+Appendiamo il sasso al dinamometro e pesiamolo fuori dall’acqua e sia ad esempio:
 
 P₁= 270 g PESO DEL SASSO FUORI DALL’ACQUA
 
-Riempiamo il cilindro graduato con una quantità nota d’acqua e
-immergiamo in esso il sasso sempre appeso al dinamometro, registriamo il
-peso del sasso e il volume di acqua spostata che è uguale al volume del
-sasso e sia ad esempio:
+Riempiamo il cilindro graduato con una quantità nota d’acqua e immergiamo in esso il sasso sempre appeso al dinamometro, registriamo il peso del sasso e il volume di acqua spostata che è uguale al volume del sasso e sia ad esempio:
 
 P₂= 170 g PESO DEL SASSO IN ACQUA
 
@@ -27,14 +22,10 @@ P₁-P₂ = 270-170= 100 g
 
 CHE COSA OSSERVO
 
-L’intensità della spinta idrostatica vale quindi 100 g-peso, il sasso
-tende ad affondare e la spinta è proprio uguale al peso del volume
-d’acqua spostato
+L’intensità della spinta idrostatica vale quindi 100 g-peso, il sasso tende ad affondare e la spinta è proprio uguale al peso del volume d’acqua spostato
 
 COME LO SPIEGO
 
-Poiché 1ml= 1cm³ di acqua pesa esattamente 1g ne consegue che spinta e
-peso di acqua spostato sono uguali, inoltre il sasso affonda perché la
-spinta è minore del suo peso.
+Poiché 1ml= 1cm³ di acqua pesa esattamente 1g ne consegue che spinta e peso di acqua spostato sono uguali, inoltre il sasso affonda perché la spinta è minore del suo peso.
 
 TEMPO: 20 minuti
