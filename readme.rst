@@ -3,7 +3,7 @@ Realizzazione di un sito web utilizzando reST_ e Sphinx_
 
 |image01|
 
-Schede_readthedocs_
+Clicca qui per visitare il sito-in-costruzione_.
 
 PRIMO step: conversione da *docx* a *txt*
 -----------------------------------------
@@ -35,3 +35,5 @@ Le sottocartelle conterranno i file ed eventuali immagini. Queste verranno salva
              :width: 400 px
 
 .. _Sphinx: http://www.sphinx-doc.org/en/master/
+.. _reST: http://docutils.sourceforge.net/rst.html
+.. _sito-in-costruzione: https://esperimenti-nel-laboratorio-di-scienza.readthedocs.io/it/latest/
