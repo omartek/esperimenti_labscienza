@@ -14,7 +14,6 @@ Contents:
 
    /cartella_00/01_volgoccia.rst
    /cartella_00/03_miscugli.rst
-   readme.rst
 
 
 Indices and tables
