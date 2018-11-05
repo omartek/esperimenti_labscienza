@@ -30,6 +30,8 @@ Ordinare i documenti in sottocartelle in base ai temi delle schede e creare una 
 
 Le sottocartelle conterranno i file ed eventuali immagini. Queste verranno salvate nella stessa cartella del file ed avranno lo stesso nome file del file .rst a cui si riferiscono ed eventualmente, se sono presenti più di una immagine, un numero progressivo, per esempio: *nomefile01.jpg*.
 
+.. note::
+   Guarda la prima scheda **01_volgoccia.rst** per il formato della scheda standard. Edita cliccando la matita per guardare i marcatori utilizzati.
 
 .. _Sphinx: http://www.sphinx-doc.org/en/master/
 .. _reST: http://docutils.sourceforge.net/rst.html
