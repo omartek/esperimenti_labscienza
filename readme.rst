@@ -1,5 +1,5 @@
 Realizzazione di un sito web utilizzando reST_ e Sphinx_
-=======================================================
+========================================================
 
 |image01|
 
@@ -34,4 +34,4 @@ Le sottocartelle conterranno i file ed eventuali immagini. Queste verranno salva
 .. |image01| image:: PhiYV.png
              :width: 400 px
 
-.. _Sphinx:: http://www.sphinx-doc.org/en/master/
+.. _Sphinx: http://www.sphinx-doc.org/en/master/
