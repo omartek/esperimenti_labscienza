@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Schede laboratorio di scienza's documentation!
-=========================================================
+Schede attività del laboratorio SCIENZA AL SOLARI
+=================================================
 
 Contents:
 
