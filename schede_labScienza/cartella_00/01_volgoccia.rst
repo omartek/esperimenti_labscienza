@@ -29,7 +29,8 @@ CHE COSA OSSERVO
 Ogni gruppo ha ottenuto un valore del volume di una goccia diverso dagli altri. Per ottenere un valore più preciso dovete calcolare la media dei valori ottenuti dai vari gruppi.
 
 .. important::
-   **Come lo spiego** Quando si misurano grandezze molto piccole, come in questo caso, è facile compiere degli errori sperimentali. Ad esempio si può non essere tutti d’accordo di avere effettivamente raggiunto la tacca sul cilindro graduato. Per ridurre gli errori sperimentali, uno dei metodi più utilizzati consiste nel calcolare la media aritmetica di più valori ottenuti. Un maggior numero di misurazioni permette di ottenere misure ancora più attendibili.
+   **Come lo spiego**
+   Quando si misurano grandezze molto piccole, come in questo caso, è facile compiere degli errori sperimentali. Ad esempio si può non essere tutti d’accordo di avere effettivamente raggiunto la tacca sul cilindro graduato. Per ridurre gli errori sperimentali, uno dei metodi più utilizzati consiste nel calcolare la media aritmetica di più valori ottenuti. Un maggior numero di misurazioni permette di ottenere misure ancora più attendibili.
 
 .. note::
    **TEMPO**: 20 minuti
