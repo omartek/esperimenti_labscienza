@@ -14,7 +14,9 @@ Ogni gruppo ha bisogno di:
 Un piccolo cilindro graduato in millilitri o in centimetri cubi, un
 contagocce, dell’acqua.
 
-|image01|
+.. image:: 01_volgoccia.png
+   :height: 200 px
+   :align: center
 
 COME SI PROCEDE
 ---------------
@@ -47,10 +49,7 @@ utilizzati consiste nel calcolare la media aritmetica di più valori
 ottenuti. Un maggior numero di misurazioni permette di ottenere misure
 ancora più attendibili.
 
-**TEMPO**: 20 minuti
+.. note::
+   **TEMPO**: 20 minuti
 
-.. |image01| image:: picture.jpeg
-   :height: 200 px
-   :alt: alternate text
-   :align: center
 
