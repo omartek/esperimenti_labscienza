@@ -49,7 +49,7 @@ ancora più attendibili.
 
 **TEMPO**: 20 minuti
 
-.. |image01| image:: picture.jpeg
+.. |image01| image:: ./images/picture.jpeg
    :height: 200 px
    :width: 200 px
    :alt: alternate text
