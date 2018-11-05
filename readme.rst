@@ -1,7 +1,9 @@
-Realizzazione di un sito web
-============================
+Realizzazione di un sito web utilizzando reST_ e Sphinx_
+=======================================================
 
 |image01|
+
+Schede_readthedocs_
 
 PRIMO step: conversione da *docx* a *txt*
 -----------------------------------------
@@ -31,3 +33,5 @@ Le sottocartelle conterranno i file ed eventuali immagini. Queste verranno salva
 
 .. |image01| image:: PhiYV.png
              :width: 400 px
+
+.. _Sphinx:: http://www.sphinx-doc.org/en/master/
