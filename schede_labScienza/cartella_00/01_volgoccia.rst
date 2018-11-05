@@ -15,7 +15,7 @@ Un piccolo cilindro graduato in millilitri o in centimetri cubi, un
 contagocce, dell’acqua.
 
 .. image:: 01_volgoccia.png
-   :height: 200 px
+   :height: 400 px
    :align: center
 
 COME SI PROCEDE
