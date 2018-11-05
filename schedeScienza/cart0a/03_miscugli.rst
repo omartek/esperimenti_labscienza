@@ -1,12 +1,16 @@
 SEPARA I COMPONENTI DI UN MISCUGLIO
+===================================
 
 Prima parte
+-----------
 
 CHE COSA SERVE
+--------------
 
 Limatura di ferro, Polvere di zolfo, Un cucchiaino, Una calamita
 
 COME SI PROCEDE
+---------------
 
 Mescola un cucchiaino di limatura di ferro con uno di polvere di zolfo.
 Ottieni così un miscuglio eterogeneo di ferro e zolfo. In questo caso è
@@ -16,6 +20,7 @@ utilizzando la calamita (separazione fisica)
 Seconda parte
 
 CHE COSA SERVE
+--------------
 
 Riso, Acqua, Carta da filtro, Un imbuto, Una ciotola, Un bicchiere
 
@@ -33,6 +38,7 @@ Anche i due componenti del miscuglio si sono separati (separazione per
 filtrazione).
 
 COME LO SPIEGO
+--------------
 
 Esistono delle tecniche che permettono di separare i componenti di un
 miscuglio sfruttando le loro proprietà. Il ferro, a differenza dello
@@ -44,3 +50,5 @@ che il riso rimasto nella carta da filtro è comunque umido, come una
 piccola parte dello zolfo rimane comunque unita alla limatura di ferro.
 
 TEMPO: 5 e 10 minuti rispettivamente
+
+
