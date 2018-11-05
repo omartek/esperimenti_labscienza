@@ -1,0 +1,32 @@
+COSTRUIAMO UN’ALTALENA
+
+CHE COSA SERVE
+
+Un manico di scopa o un tubo di cartone, una riga da disegno lunga 80
+cm, elastici alcuni bulloni tutti uguali, nastro biadesivo.
+
+COME SI PROCEDE
+
+Prendi la riga e attacca, partendo da zero, un pezzetto di nastro
+adesivo ugni 5 cm, in modo che i numeri 0, 5, 10…80 rimangano proprio al
+centro del pezzo di nastro. Con il nastro biadesivo ferma la riga al
+tubo di cartone nella sua metà, così che rimangano 40 cm sia a destra
+che a sinistra del tubo. Poggia il tubo, in modo che la riga rimanga
+sotto, sopra due banchi della stessa altezza staccati tra loro. Metti un
+bullone sullo 0 e uno su 80, cioè sui due estremi della riga. La riga è
+in equilibrio. Ora sposta il bullone dalla posizione 80 alla posizione
+60: la riga non è più in equilibrio.
+
+CHE COSA OSSERVO
+
+Se ora poni un altro bullone in posizione 60, la riga è nuovamente in
+equilibrio.
+
+COME LO SPIEGO
+
+L’altalena costruita è una leva. La leva è in equilibrio se il braccio
+della potenza e il braccio della resistenza (le due forze ai lati della
+riga) si equivalgono. Dimezzando il braccio di una delle due forze, per
+ripristinare l’equilibrio dobbiamo raddoppiarne il valore.
+
+TEMPO: 30 minuti
