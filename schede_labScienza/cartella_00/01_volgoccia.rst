@@ -51,7 +51,6 @@ ancora più attendibili.
 
 .. |image01| image:: picture.jpeg
    :height: 200 px
-   :width: 200 px
    :alt: alternate text
    :align: center
 
