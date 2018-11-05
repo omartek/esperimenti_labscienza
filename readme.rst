@@ -1,7 +1,8 @@
 Realizzazione di un sito web utilizzando reST_ e Sphinx_
 ========================================================
 
-|image01|
+.. image:: PhiYV.png
+   :height: 200px
 
 Clicca qui per visitare il sito-in-costruzione_.
 
@@ -29,9 +30,6 @@ Ordinare i documenti in sottocartelle in base ai temi delle schede e creare una 
 
 Le sottocartelle conterranno i file ed eventuali immagini. Queste verranno salvate nella stessa cartella del file ed avranno lo stesso nome file del file .rst a cui si riferiscono ed eventualmente, se sono presenti più di una immagine, un numero progressivo, per esempio: *nomefile01.jpg*.
 
-
-.. |image01| image:: PhiYV.png
-             :height: 200px
 
 .. _Sphinx: http://www.sphinx-doc.org/en/master/
 .. _reST: http://docutils.sourceforge.net/rst.html
