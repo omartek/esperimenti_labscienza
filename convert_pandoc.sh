@@ -15,7 +15,7 @@ do
   # extension="${f##*.}"
   filename="${f%.*}"
   echo "Converting $f to $filename.txt"
-  `pandoc -s $f -t plain -o $filename.txt`
+  `pandoc -s $f -t plain -o $filename.txt` --wrap=none
   # uncomment this line to delete the source file.
   # rm $f
 done
