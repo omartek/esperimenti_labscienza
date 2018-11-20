@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Schede attività del laboratorio SCIENZA AL SOLARI
-=================================================
+Cartella_03
+===========
 
 Contents:
 
@@ -21,4 +21,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
