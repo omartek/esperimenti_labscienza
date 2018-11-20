@@ -10,13 +10,11 @@ Contents:
 
 .. toctree::
    :maxdepth: 1
-   :caption: Schede esperimenti laboratorio di scienze
+   :caption: Schede esperimenti laboratorio di scienze cartella_00
 
-   /cartella_00/index.rst
-   /cartella_01/index.rst
-   /cartella_02/index.rst
-   /cartella_03/index.rst
-   /cartella_04/index.rst
+   01_volgoccia.rst
+   03_miscugli.rst
+
 
 Indices and tables
 ==================

@@ -10,13 +10,10 @@ Contents:
 
 .. toctree::
    :maxdepth: 1
-   :caption: Schede esperimenti laboratorio di scienze
+   :caption: Schede esperimenti laboratorio di scienze cartella_03
 
-   /cartella_00/index.rst
-   /cartella_01/index.rst
-   /cartella_02/index.rst
-   /cartella_03/index.rst
-   /cartella_04/index.rst
+   42_vapore_nell_aria.rst
+
 
 Indices and tables
 ==================
