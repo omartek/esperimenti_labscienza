@@ -14,11 +14,3 @@ Contents:
 
    01_volgoccia.rst
    03_miscugli.rst
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

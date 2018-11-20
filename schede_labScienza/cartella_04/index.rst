@@ -13,11 +13,3 @@ Contents:
    :caption: Schede esperimenti laboratorio di scienze cartella_04
 
    71_dilat_solidi
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

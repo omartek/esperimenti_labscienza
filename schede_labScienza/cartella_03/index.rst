@@ -13,11 +13,3 @@ Contents:
    :caption: Schede esperimenti laboratorio di scienze cartella_03
 
    42_vapore_nell_aria.rst
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

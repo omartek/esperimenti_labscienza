@@ -13,11 +13,3 @@ Contents:
    :caption: Schede esperimenti laboratorio di scienze cartella_01
 
    52_acirserie.rst
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

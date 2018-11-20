@@ -13,11 +13,3 @@ Contents:
    :caption: Schede esperimenti laboratorio di scienze cartella_02
 
    2_densita.rst
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
