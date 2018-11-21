@@ -35,5 +35,5 @@ Le sottocartelle conterranno i file ed eventuali immagini. Queste verranno salva
 
 .. _Sphinx: http://www.sphinx-doc.org/en/master/
 .. _reST: http://docutils.sourceforge.net/rst.html
-.. _sito-in-costruzione: https://esperimenti-nel-laboratorio-di-scienza.readthedocs.io/it/latest/
+.. _sito-in-costruzione: https://esperimenti-nel-laboratorio-di-scienza.readthedocs.io/it/latest/index.html
 .. _RestructuredText-on-line: http://rst.ninjs.org/
