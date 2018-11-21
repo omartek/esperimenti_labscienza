@@ -9,13 +9,14 @@ Prima parte
 CHE COSA SERVE
 --------------
 
--Limatura di ferro
+- Limatura di ferro
+- Polvere di zolfo
+- Un cucchiaino
+- Una calamita
 
--Polvere di zolfo
-
--Un cucchiaino
-
--Una calamita
+.. image:: 03_miscugli.png
+   :height: 400 px
+   :align: center
 
 COME SI PROCEDE
 ---------------
@@ -29,15 +30,11 @@ CHE COSA SERVE
 
 Riso
 
--Acqua
-
--Carta da filtro
-
--Un imbuto
-
--Una ciotola
-
--Un bicchiere
+- Acqua
+- Carta da filtro
+- Un imbuto
+- Una ciotola
+- Un bicchiere
 
 COME SI PROCEDE
 ---------------
@@ -50,6 +47,6 @@ CHE COSA OSSERVO
 Anche i due componenti del miscuglio si sono separati (separazione per filtrazione).
 
 .. hint:: 
-   **COME LO SPIEGO**
-
-Esistono delle tecniche che permettono di separare i componenti di un miscuglio sfruttando le loro proprietà. Il ferro, a differenza dello zolfo, ha la proprietà di essere attratto dalla calamita, così come il riso ha dimensioni tali da non passare attraverso la carta da filtro. Queste tecniche sono utilizzabili solo in alcuni casi, e peraltro una separazione completa è quasi sempre impossibile: avrai notato infatti che il riso rimasto nella carta da filtro è comunque umido, come una piccola parte dello zolfo rimane comunque unita alla limatura di ferro.
+  **COME LO SPIEGO**
+  
+  Esistono delle tecniche che permettono di separare i componenti di un miscuglio sfruttando le loro proprietà. Il ferro, a differenza dello zolfo, ha la proprietà di essere attratto dalla calamita, così come il riso ha dimensioni tali da non passare attraverso la carta da filtro. Queste tecniche sono utilizzabili solo in alcuni casi, e peraltro una separazione completa è quasi sempre impossibile: avrai notato infatti che il riso rimasto nella carta da filtro è comunque umido, come una piccola parte dello zolfo rimane comunque unita alla limatura di ferro.
