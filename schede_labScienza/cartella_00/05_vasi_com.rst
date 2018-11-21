@@ -13,7 +13,7 @@ CHE COSA SERVE
 - Un becher
 - Una bacchetta di vetro
 
-.. image:: 05_casi_com.png
+.. image:: 05_vasi_com.png
    :height: 400 px
    :align: center
    
