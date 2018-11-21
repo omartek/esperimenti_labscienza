@@ -12,4 +12,4 @@ Contents:
    :maxdepth: 1
    :caption: Schede esperimenti laboratorio di scienze cartella_02
 
-   2_densita.rst
+   10_dil_term_liquid.rst
