@@ -5,6 +5,7 @@ SEPARA I COMPONENTI DI UN MISCUGLIO
    **TEMPO**: 5 e 10 minuti rispettivamente
 
 Prima parte
+===========
 
 CHE COSA SERVE
 --------------
@@ -24,6 +25,7 @@ COME SI PROCEDE
 Mescola un cucchiaino di limatura di ferro con uno di polvere di zolfo. Ottieni così un miscuglio eterogeneo di ferro e zolfo. In questo caso è possibile separare le due sostanze che compongono il miscuglio utilizzando la calamita (separazione fisica)
 
 Seconda parte
+===========
 
 CHE COSA SERVE
 --------------
