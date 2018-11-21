@@ -48,7 +48,8 @@ CHE COSA OSSERVO
 
 Anche i due componenti del miscuglio si sono separati (separazione per filtrazione).
 
-.. hint:: 
-  **COME LO SPIEGO**
-  
+COME LO SPIEGO
+--------------
+
+.. hint::    
   Esistono delle tecniche che permettono di separare i componenti di un miscuglio sfruttando le loro proprietà. Il ferro, a differenza dello zolfo, ha la proprietà di essere attratto dalla calamita, così come il riso ha dimensioni tali da non passare attraverso la carta da filtro. Queste tecniche sono utilizzabili solo in alcuni casi, e peraltro una separazione completa è quasi sempre impossibile: avrai notato infatti che il riso rimasto nella carta da filtro è comunque umido, come una piccola parte dello zolfo rimane comunque unita alla limatura di ferro.
