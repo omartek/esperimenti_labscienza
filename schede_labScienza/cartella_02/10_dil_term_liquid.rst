@@ -14,7 +14,7 @@ CHE COSA SERVE
 - Un becher;
 - Una piastra elettrica
 
-.. image:: 01_volgoccia.png
+.. image:: 10_dil_term_liquid.png
    :height: 400 px
    :align: center
 
