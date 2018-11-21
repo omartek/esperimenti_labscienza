@@ -28,8 +28,9 @@ CHE COSA OSSERVO
 
 Inizialmente i livelli di acqua e alcol nei tubicini sono uguali, ma, a mano a mano che i due liquidi si riscaldano, l’alcol aumenta il suo volume in misura maggiore e più velocemente rispetto all’acqua.
 
-.. hint::
-  **Come lo spiego**
-  
+COME LO SPIEGO
+--------------
+
+.. hint::  
   L’aumento di temperatura provoca il fenomeno della dilatazione termica in entrambi i liquidi. Le molecole dell’alcol però tendono ad allontanarsi tra loro in misura maggiore rispetto a quelle dell’acqua. Per questo motivo l’effetto è molto più evidente nella provetta contenente l’alcol.
 
