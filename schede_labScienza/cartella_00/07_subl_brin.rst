@@ -27,7 +27,8 @@ CHE COSA OSSERVO
 
 Si sviluppano dei vapori colorati e si formano cristalli.
 
-.. hint::
-  **Come lo spiego**
-  
+COME LO SPIEGO
+--------------
+
+.. hint::  
   I cristalli di iodio passano direttamente dallo stato solido allo stato gassoso senza passare dallo stato liquido. Questo fenomeno si chiama SUBLIMAZIONE. Se però osserviamo bene le pareti della provetta noterai dei nuovi cristalli di piccolissime dimensioni: il gas che si era formato viene a contatto con le pareti fredde della provetta e ritorna direttamente allo stato solido, senza passare dallo stato liquido. Questo fenomeno si chiama BRINAMENTO.
