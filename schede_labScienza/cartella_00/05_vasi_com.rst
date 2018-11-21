@@ -27,7 +27,8 @@ CHE COSA OSSERVO
 
 Il liquido in ciascun vaso ha raggiunto lo stesso livello
 
-.. hint::
-  **COME LO SPIEGO**
-  
+COME LO SPIEGO
+--------------
+
+.. hint::  
   Quando si mettono in comunicazione due o più recipienti pieni di liquido, esso per il principio dei vasi comunicanti si dispone allo stesso livello indipendentemente dalla forma e dimensioni dei recipienti. Ciò dipende dal fatto che la pressione atmosferica è la stessa sulla superficie libera di tutti i vasi.
