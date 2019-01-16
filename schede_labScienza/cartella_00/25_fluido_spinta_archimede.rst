@@ -32,5 +32,5 @@ La provetta galleggia in tutti i quattro liquidi, ma la parte immersa è diversa
 COME LO SPIEGO
 --------------
 
--- hint::
+.. hint::
    La spinta idrostatica deve sostenere il peso dei pallini da caccia. Poiché i liquidi contenuti nei cilindri graduati hanno diverso peso specifico, per sostenere il galleggiamento è necessario un volume diverso di liquido.
