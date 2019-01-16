@@ -7,7 +7,14 @@ LA DILATAZIONE TERMICA NEI GAS
 CHE COSA SERVE
 --------------
 
-Una bottiglietta, un palloncino di gomma, un elastico, una vaschetta con acqua calda
+- Una bottiglietta
+- Un palloncino di gomma
+- Un elastico
+- Una vaschetta con acqua calda
+
+.. image:: 09_dil_term_gas.png
+   :height: 400 px
+   :align: center
 
 COME SI PROCEDE
 ---------------
