@@ -16,3 +16,11 @@ Contents:
    03_miscugli.rst
    05_vasi_com.rst
    07_subl_brin.rst
+   09_dil_term_gas.rst
+   11_dil_term_solid.rst
+   13_condut_isolan.rst
+   15_ossidaz_ferro.rst
+   17_indicatore.rst
+   19_i_grassi.rst
+   21_proteine.rst
+   25_fluido_spinta_archimede.rst
