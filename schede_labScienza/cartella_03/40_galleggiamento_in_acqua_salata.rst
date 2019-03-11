@@ -13,6 +13,10 @@ CHE COSA SERVE
 - un cucchiaio
 - un uovo fresco
 
+.. image:: uova.png
+   :height: 400 px
+   :align: center
+
 COME SI PROCEDE
 ----------------
 
