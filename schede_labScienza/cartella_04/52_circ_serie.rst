@@ -8,7 +8,6 @@ COME SI PROCEDE
 -----------------
 Taglia tre strisce orizzontali di carta alluminio larghe un paio di centimetri. Spennella un po' di colla sul cartone e taglia opportunamente e incolla sol cartone le strisce di alluminio in modo da realizzare un circuito come in figura interrompendo il circuito di qualche millimetro nelle tre sezioni dove dovranno essere collegati i led. Collega infine i tre led al circuito incollandoli con del nastro adesivo in modo da ripristinare il circuito come in figura:
 
-[]
 .. image:: 52_circ_serie.png
    :height: 400 px
    :align: center
