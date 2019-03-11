@@ -12,6 +12,11 @@ CHE COSA SERVE
 - un bastoncino di legno
 
 
+.. image:: 27_elettrizzazione.png
+   :height: 400 px
+   :align: center
+
+
 COME SI PROCEDE
 ---------------
 
@@ -27,4 +32,3 @@ COME LO SPIEGO
 
 .. hint::
   Strofinando la biro con il panno di lana la elettrizzi negativamente (elettrizzazione per strofinio). Se avvicini la biro elettrizzata alla biro sospesa, provochi in quest’ultima una separazione di cariche (elettrizzazione per induzione) con un accumulo della carica positiva (mancanza di elettroni) sulla superficie vicino alla biro elettrizzata: le due biro perciò si attraggono. Quando strofini entrambi le biro, esse risultano cariche negativamente: l’elettrizzazione per induzione non avviene e le due biro si respingono.
-
