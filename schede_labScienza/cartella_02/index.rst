@@ -13,3 +13,4 @@ Contents:
    :caption: Schede esperimenti laboratorio di scienze cartella_02
 
    10_dil_term_liquid.rst
+   12_cambiamenti_di_stato.rst
