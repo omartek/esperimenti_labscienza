@@ -40,6 +40,6 @@ COME LO SPIEGO
 ------------------
 
 .. hint::   
-La tensione di 9V è sufficiente per accendere i tre led (la tensione d’esercizio di un led è di circa 3V ed essendo essi collegati in serie occorrono proprio 9V per accenderli tutti), inoltre in un circuito in serie la corrente che lo attraversa è sempre la stessa per cui interrompendo il circuito in un punto qualsiasi essa non può più circolare e i led si spengono.
+   La tensione di 9V è sufficiente per accendere i tre led (la tensione d’esercizio di un led è di circa 3V ed essendo essi   collegati in serie occorrono proprio 9V per accenderli tutti), inoltre in un circuito in serie la corrente che lo attraversa è sempre la stessa per cui interrompendo il circuito in un punto qualsiasi essa non può più circolare e i led si spengono.
 
 
