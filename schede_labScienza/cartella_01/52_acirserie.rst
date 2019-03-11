@@ -1,11 +1,31 @@
 COSTRUIAMO UN CIRCUITO IN SERIE
+==================================
+
+
+.. note::
+    **TEMPO**: 40 minuti
+
+
+
 
 CHE COSA SERVE
+-----------------
 
-Una batteria da 9V, carta alluminio, tre led uguali, un pannello di cartone rigido di dimensioni 25 per 30 cm, nastro adesivo, forbici, colla, pennellino.
+ - Una batteria da 9V ;
+ - carta aluminio ;
+ -  tre led uguali  ;
+ - un pannello di cartone rigido di dimensioni 25 per 30 cm ;
+ - nastro adesivo ;
+ - forbici ;
+ - colla ;
+ pennellino.
+ 
+ .. image:: 09_dil_term_gas.png
+   :height: 400 px
+   :align: center
 
 COME SI PROCEDE
-
+-------------------
 Taglia tre o quattro strisce orizzontali di carta alluminio larghe un paio di centimetri. Spennella sul bordo del cartone un po’ di colla, taglia opportunamente e incolla sul pannello le strisce di alluminio in modo da realizzare un circuito come in figura interrompendo il circuito stesso di qualche millimetro nelle tre sezioni dove dovranno essere collegati i led. Collega infine i tre led al circuito incollandoli con del nastro adesivo in modo da ripristinare il circuito come in figura:
 
 []
@@ -13,11 +33,13 @@ Taglia tre o quattro strisce orizzontali di carta alluminio larghe un paio di ce
 Infine collega gli estremi liberi del circuito ai poli della batteria di 9V rispettando le polarità (ricorda che il positivo del led è quello con la gambetta più lunga e il negativo quello con la gambetta più corta e che i led conducono la corrente in un solo verso).
 
 CHE COSA OSSERVO
-
+--------------------
 Una volta collegato il circuito ai poli della batteria, i tre led si accendono contemporaneamente, inoltre se interrompiamo il circuito in un punto qualsiasi tutti i led si spengono.
 
 COME LO SPIEGO
+------------------
 
+.. hint::   
 La tensione di 9V è sufficiente per accendere i tre led (la tensione d’esercizio di un led è di circa 3V ed essendo essi collegati in serie occorrono proprio 9V per accenderli tutti), inoltre in un circuito in serie la corrente che lo attraversa è sempre la stessa per cui interrompendo il circuito in un punto qualsiasi essa non può più circolare e i led si spengono.
 
-TEMPO: 40 minuti
+
