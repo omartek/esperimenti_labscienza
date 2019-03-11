@@ -1,20 +1,37 @@
 COSTRUIAMO UN BAROMETRO
 =========================
 
-CHE COSA SERVE
+.. note::
+   **TEMPO**: 15 minuti più qualche giorno
 
-Un barattolo di vetro o di latta, pellicola trasparente per alimenti, un elastico, una cannuccia per bibite, un ago, nastro adesivo, un cartoncino rigido, carta millimetrata, una matita rossa
+CHE COSA SERVE
+---------------
+
+- Un barattolo di vetro o di latta
+- pellicola trasparente per alimenti
+- un elastico
+- una cannuccia per bibite
+- un ago
+- nastro adesivo
+- un cartoncino rigido
+- carta millimetrata
+- una matita rossa
 
 COME SI PROCEDE
+----------------
 
 Stendi sull’apertura del barattolo la pellicola e fissala ben stretta con l’elastico., in modo che non passi aria. Infila l’ago a un’estremità della cannuccia e fermalo con il nastro adesivo. Incolla l’altra estremità della cannuccia al centro del “tappo” di pellicola. Attacca una striscia di carta millimetrata al cartoncino. Appoggia il barattolo su un piano (se all’esterno, in un angolo riparato; se all’interno di casa, lontano dalla finestra o dal calorifero) e fissa con il nastro adesivo il cartoncino sulla parete vicina in modo che l’ago tocchi la striscia di carta millimetrata. Segna una rossa in corrispondenza del punto toccato dall’ago. Utilizza questo semplice barometro per qualche giorno, facendo le tue osservazioni sempre alla stessa ora.
 
 CHE COSA OSSERVO
+-----------------
 
 L’ago si muove, giorno dopo giorno, ma non sempre nello stesso modo.
 
 COME LO SPIEGO
+----------------
 
-Il movimento dell’ago è dovuto alle variazioni di pressione: se la pressione aumenta, la pellicola viene schiacciata e l’ago si innalza; se la pressione diminuisce, il peso sulla pellicola diminuisce, la pellicola si solleva e l’ago si abbassa.
+.. hint::  
 
-TEMPO: 15 minuti più qualche giorno.
+  Il movimento dell’ago è dovuto alle variazioni di pressione: se la pressione aumenta, la pellicola viene schiacciata e l’ago si innalza; se la pressione diminuisce, il peso sulla pellicola diminuisce, la pellicola si solleva e l’ago si abbassa.
+
+
