@@ -18,7 +18,7 @@ CHE COSA SERVE
  - nastro adesivo ;
  - forbici ;
  - colla ;
- pennellino.
+ - pennellino.
  
  .. image:: 09_dil_term_gas.png
    :height: 400 px
