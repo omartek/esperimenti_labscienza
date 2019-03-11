@@ -12,4 +12,8 @@ Contents:
    :maxdepth: 1
    :caption: Schede esperimenti laboratorio di scienze cartella_03
 
+   39_magma_in_superfice.rst
+   40_galleggiamento_in_acqua_salata.rst
+   41_aria_pesa.rst
    42_vapore_nell_aria.rst
+   43_barometro.rst
