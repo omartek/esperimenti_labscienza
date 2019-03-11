@@ -20,15 +20,15 @@ CHE COSA SERVE
  - colla ;
  - pennellino.
  
- .. image:: 09_dil_term_gas.png
-   :height: 400 px
-   :align: center
+
 
 COME SI PROCEDE
 -------------------
 Taglia tre o quattro strisce orizzontali di carta alluminio larghe un paio di centimetri. Spennella sul bordo del cartone un po’ di colla, taglia opportunamente e incolla sul pannello le strisce di alluminio in modo da realizzare un circuito come in figura interrompendo il circuito stesso di qualche millimetro nelle tre sezioni dove dovranno essere collegati i led. Collega infine i tre led al circuito incollandoli con del nastro adesivo in modo da ripristinare il circuito come in figura:
 
-[]
+ .. image:: 09_dil_term_gas.png
+   :height: 400 px
+   :align: center
 
 Infine collega gli estremi liberi del circuito ai poli della batteria di 9V rispettando le polarità (ricorda che il positivo del led è quello con la gambetta più lunga e il negativo quello con la gambetta più corta e che i led conducono la corrente in un solo verso).
 
