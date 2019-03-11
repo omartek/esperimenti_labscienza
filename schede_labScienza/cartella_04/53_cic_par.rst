@@ -8,7 +8,7 @@ COME SI PROCEDE
 -----------------
 Taglia con le fobici delle strisce di alluminio di circa due cm ritagliando poi dei pezzi in modo da poter costruire un circuito come in figura. Incolla i vari pezzi sul pannello di cartone e collega i tre led al circuito, nel rispetto delle polarità, incollandoli con del nastro adesivo. Collega infine gli estremi liberi del circuito con i poli della batteria.
 
-.. image:: 53_cic_par.png
+.. image:: 53_cic_par.jpg
    :height: 400 px
    :align: center
 
