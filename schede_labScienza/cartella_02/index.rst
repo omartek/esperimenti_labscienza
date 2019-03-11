@@ -14,3 +14,4 @@ Contents:
 
    10_dil_term_liquid.rst
    12_cambiamenti_di_stato.rst
+   14_combust_zolfo.rst
