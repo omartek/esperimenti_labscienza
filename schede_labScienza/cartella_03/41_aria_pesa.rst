@@ -1,11 +1,23 @@
 L’ARIA PESA
 ============
 
-CHE COSA SERVE
+.. note::
+   **TEMPO**: 20 minuti
 
-Una bacchetta di legno, due palloncini uguali, due puntine da disegno, un elastico, del filo sottile di cotone, del nastro adesivo, un righello, una matita
+CHE COSA SERVE
+---------------
+
+- Una bacchetta di legno
+- due palloncini uguali 
+- due puntine da disegno 
+- un elastico
+- del filo sottile di cotone 
+- del nastro adesivo 
+- un righello
+- una matita
 
 COME SI PROCEDE
+----------------
 
 Aiutandoti con il righello trova il centro della bacchetta e segnalo con la matita da entrambi i lati.
 
@@ -22,11 +34,14 @@ Tieni la bacchetta sospesa per il filo e controlla che sia in equilibrio; se non
 Sfila uno dei palloncini, gonfialo, legalo e fissalo di nuovo nella posizione iniziale.
 
 CHE COSA OSSERVO
+-----------------
 
 La bacchetta non si trova più nella posizione di equilibrio, ma si inclina dalla parte del palloncino gonfio.
 
 COME LO SPIEGO
+---------------
 
-L’aria, oltre a occupare un certo volume, ha anche un peso e quindi una massa, e per questo la bacchetta si inclina. Se si sgonfia nuovamente il palloncino, la bacchetta torna in equilibrio. Ora rifletti: che cosa succederebbe se i palloncini non fossero fissati alle estremità?
+.. hint::  
 
-TEMPO: 20 minuti
+   L’aria, oltre a occupare un certo volume, ha anche un peso e quindi una massa, e per questo la bacchetta si inclina. Se si sgonfia nuovamente il palloncino, la bacchetta torna in equilibrio. Ora rifletti: che cosa succederebbe se i palloncini non fossero fissati alle estremità?
+
