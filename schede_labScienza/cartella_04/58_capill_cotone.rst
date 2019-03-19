@@ -11,7 +11,7 @@ CHE COSA SERVE
 -cotone idrofilo
 -liquido colorato
 
-.. image:: 01_volgoccia.png
+.. image:: 58_capill_cotone.png
    :height: 400 px
    :align: center
    
