@@ -10,7 +10,7 @@ CHE COSA SERVE
 -acqua di rubinetto
 -detersivo per piatti
 
-.. image:: 59_tensionealpepe..png
+.. image:: 59_tensionealpepe.png
    :height: 400 px
    :align: center
 
