@@ -24,7 +24,7 @@ Appena agitato il barattolo, l’acqua appare torbida e scura. Con il passare de
 COME LO SPIEGO
 ----------------
 
-..hint::
+.. hint::
 
   Ogni strato formatosi dentro il barattolo ha uno spessore diverso, in base al tipo di terreno che si è versato nel barattolo e alla sua percentuale di sabbia e di argilla. Sul fondo del barattolo si depositano per primi i granuli più grossolani, che grazie alle loro dimensioni cadono prima degli altri; poi via via si separano i granuli più fini, che scendono più lentamente nella massa d’acqua. La parte di terreno che anche dopo ore galleggia è l’humus, formato da composti organici, che è più leggero dell’acqua.
 
