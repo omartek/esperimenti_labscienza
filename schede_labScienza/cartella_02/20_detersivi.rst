@@ -7,7 +7,10 @@ L’AZIONE DEI DETERSIVI
 CHE COSA SERVE
 --------------
 
-Due bicchieri di vetro trasparente, acqua, olio, detersivo liquido
+- due bicchieri di vetro trasparente
+- acqua
+- olio
+- detersivo liquido
 
 COME SI PROCEDE
 ===============
