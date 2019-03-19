@@ -7,7 +7,12 @@ COSTRUIAMO UN ELETTROSCOPIO
 CHE COSA SERVE
 --------------
 
-Un’ampolla di vetro, un tappo di sughero forato adattabile alla bottiglia, una striscia di pellicola di alluminio per alimenti lunga 4 cm e larga 1 cm, qualche decimetro di cavo elettrico spellato (filo di rame), la cannuccia di plastica di una biro, un panno di lana.
+- un’ampolla di vetro
+- un tappo di sughero forato adattabile alla bottiglia
+- una striscia di pellicola di alluminio per alimenti lunga 4 cm e larga 1 cm
+- qualche decimetro di cavo elettrico spellato (filo di rame)
+- la cannuccia di plastica di una biro
+- un panno di lana
 
 COME SI PROCEDE
 ---------------
