@@ -1,19 +1,35 @@
 L’OSMOSI
+=========
+
+.. note::
+  **TEMPO**: Qualche ora
 
 CHE COSA SERVE
+---------------
 
-Una patata, un coltello e un cucchiaio, zucchero.
+- Una patata,
+- un coltello e un cucchiaio,
+- zucchero.
+
+ .. image:: 09_dil_term_gas.png
+   :height: 400 px
+   :align: center
 
 COME SI PROCEDE
+----------------
 
 Taglia la patata in due metà (che chiameremo A e B). Scava in ciascuna di esse una buchetta con il cucchiaino. Appena scavate le buchette appaiono bagnate, poiché sono state rotte le cellule della patata e sono quindi fuoriuscite le soluzioni acquose in essa contenute. Nella buchetta di A metti alcune gocce d’acqua, nella buchetta di B metti invece dello zucchero con due gocce d’acqua.
 
 CHE COSA OSSERVO
+-----------------
 
 All’acqua messa in A non sembra accadere nulla di particolare. Al contrario, lo zucchero in B si scioglie, formando una soluzione molto più concentrata rispetto a quella contenuta nelle cellule della patata. Con il passare del tempo nella buchetta A scompare l’acqua che era stata posta all’inizio dell’esperimento poiché l’acqua (soluzione di Sali poco concentrata) è passata all’interno delle cellule della patata, che contengono una soluzione di Sali più concentrata. La buchetta B, invece, si è riempita quasi completamente di acqua: ciò è dovuto al fatto che l’acqua è passata dall’interno delle cellule, contenenti una soluzione meno concentrata di Sali, alla soluzione zuccherina, fortemente concentrata.
 
-COME LO SPIEGO
 
+COME LO SPIEGO
+---------------
+
+.. hint:: 
 Entrambi i fenomeni, la scomparsa di acqua nella buchetta A e il riempimento con acqua della buchetta B, sono dovuti all’osmosi. Infatti quando due soluzioni, contenenti differenti concentrazioni di Sali disciolti, sono separati da una membrana semipermeabile (in questo caso la membrana delle cellule della patata), l’acqua si trasferisce spontaneamente dalla posizione in cui la soluzione è meno concentrata a quella in cui è più concentrata. Il passaggio d’acqua cessa solo quando le due soluzioni vengono ad avere la stessa concentrazione.
 
-TEMPO: Qualche ora
+
