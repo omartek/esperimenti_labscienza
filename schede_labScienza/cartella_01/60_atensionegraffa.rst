@@ -1,0 +1,39 @@
+TENSIONE GRAFFA
+================
+
+
+.. note::
+    **TEMPO**: 10 minuti
+    
+    
+CHE COSA SERVE
+---------------
+
+- Una bacinella,
+- una graffetta,
+- detersivo per piatti,
+- carta assorbente,
+- acqua di rubinetto.
+
+ .. image:: 09_dil_term_gas.png
+   :height: 400 px
+   :align: center
+   
+
+COME SI PROCEDE
+----------------
+
+Riempi d’acqua la bacinella per circa i tre quarti della sua capacità; ritaglia un pezzetto di carta assorbente e poggiaci sopra la graffetta. Prendi il pezzetto di carta con sopra la graffetta e poggialo delicatamente sulla superfice dell’acqua. Dopo qualche secondo, la carta si inzuppa d’acqua e cade sul fondo della bacinella mentre la graffetta dovrebbe restare a galla. Se anche la graffette affonda, ripescala e ripeti il procedimento finché la graffetta non galleggia. Immergi poi il dito nel detersivo e tocca la superfice dell’acqua della bacinella.
+
+CHE COSA OSSERVO
+-----------------
+
+Dopo qualche tentativo vedremo che si riesce a far galleggiare la graffetta anche se il materiale con cui essa è fatta ha densità maggiore di quella dell’acqua.
+
+COME LO SPIEGO
+---------------
+
+.. hint::  
+  Le molecole superficiali dell’acqua sono sottoposte ad una forza, detta tensione superficiale, che agisce come una membrana elastica ed è in grado di sostenere dei piccoli pesi, come quello della graffetta, che quindi riesce a galleggiare. Toccando la superfice dell’acqua col detersivo tale membrana si rompe perché il detersivo, che è un tensioattivo, ha la capacità di allontanare tra loro le molecole di acqua spezzando così la forza che le tiene unite facendo precipitare sul fondo la graffetta.
+
+
