@@ -21,4 +21,4 @@ Che cosa osservo
 
 .. hint::
 
-    La consistenza dell’osso è progressivamente diminuita tanto che l’osso si può piegare.
+     La consistenza dell’osso è progressivamente diminuita tanto che l’osso si può piegare.
