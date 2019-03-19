@@ -20,6 +20,7 @@ Contents:
    57_saturazione.rst
    58_capill_cotone.rst
    59_tensionealpepe.rst
+   60_tensionegraffa.rst
    
    
    
