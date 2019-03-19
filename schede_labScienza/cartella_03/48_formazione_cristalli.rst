@@ -2,7 +2,7 @@ LA FORMAZIONE DEI CRISTALLI
 ===========================
 
  .. note::
-   **TEMPO**:  qualche giorno
+   **TEMPO**: qualche giorno
 
 CHE COSA SERVE
 ---------------
