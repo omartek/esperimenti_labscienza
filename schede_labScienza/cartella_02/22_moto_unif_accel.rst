@@ -7,7 +7,13 @@ IL MOTO UNIFORMEMENTE ACCELERATO
 CHE COSA SERVE
 --------------
 
-Una biglia di vetro, un metro da muratore, un cronometro, una matita, una scatola da scarpe, della sabbia asciutta, un grande foglio di carta da pacchi
+- una biglia di vetro
+- un metro da muratore
+- un cronometro
+- una matita
+- una scatola da scarpe
+- della sabbia asciutta
+- un grande foglio di carta da pacchi
 
 COME SI PROCEDE
 ---------------
