@@ -1,4 +1,8 @@
 NEL SUOLO C’E’ ACQUA?
+======================
+
+ .. note::  
+   **TEMPO**: 20 minuti
 
 CHE COSA SERVE
 
