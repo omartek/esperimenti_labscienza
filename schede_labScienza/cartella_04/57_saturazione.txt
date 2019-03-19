@@ -1,11 +1,11 @@
 SATURAZIONE DI UNA SOLUZIONE
-==============================
+===============================
 
 .. note::
 **TEMPO**: 15 minuti
 
 CHE COSA SERVE
-----------------
+-----------------
 -Un beker da 100 ml
 -sale da cucina
 -un cucchiaino 
@@ -18,7 +18,7 @@ CHE COSA SERVE
    :align: center
 
 COME SI PROCEDE
------------------
+------------------
 Versa nel beker 50 ml di acqua ed aggiungi, dopo averlo pesato, 5g di sale e mescola per bene con la bacchetta. Quando la soluzione diventa limpida ripeti la procedura aggiungendo altri 5g di sale e poi ancora 5g, ed ancora 5g.
 
 CHE COSA OSSERVO
