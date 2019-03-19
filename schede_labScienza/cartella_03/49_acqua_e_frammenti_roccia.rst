@@ -1,6 +1,13 @@
 L’ACQUA E I FRAMMENTI DI ROCCIA
+================================
+
+.. note::
+   **TEMPO**: qualche giorno
+
+  
 
 CHE COSA SERVE
+---------------
 
 Sassolini di varia natura e granuli di sabbia grossolana, un recipiente di vetro o di plastica trasparente, un cucchiaio di legno, un colino, una bilancia di precisione, un orologio, acqua, un po’ di aceto o di acido muriatico per le pulizie domestiche, un quaderno, una penna
 
@@ -16,4 +23,4 @@ COME LO SPIEGO
 
 Agitando l’acqua con un po’ di aceto o acido mescolati hai simulato l’azione delle acque che circolano sulla superficie terrestre e in profondità. Il peso diminuisce ad ogni pesata successiva perché l’acqua in movimento provoca la disgregazione dei sassolini e dei granelli, che si possono frantumare in particelle più piccole, e la dissoluzione di altre piccole particelle. L’azione delle acque che si muovono sulla superficie terrestre e sotto il livello del suolo contribuisce alla trasformazione delle rocce.
 
-TEMPO: 60 minuti
+TEMPO: qualche giorno
