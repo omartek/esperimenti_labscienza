@@ -7,7 +7,9 @@ OTTENIAMO UN MAGNETE PERMANENTE
 CHE COSA SERVE
 --------------
 
-Una calamita, un grosso chiodo d’acciaio, oggetti ferrosi come graffette, chiavi ecc.
+- una calamita
+- un grosso chiodo d’acciaio
+- oggetti ferrosi come graffette, chiavi ecc.
 
 COME SI PROCEDE
 ---------------
