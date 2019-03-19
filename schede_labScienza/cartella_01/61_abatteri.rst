@@ -1,19 +1,34 @@
 OSSERVIAMO I BATTERI
+=====================
 
+.. note::
+    **TEMPO**: alcuni giorni
+    
 CHE COSA SERVE
+---------------
 
 Due capsule di Petri, gelatina per brodo.
 
 COME SI PROCEDE
+----------------
 
 Fai bollire la gelatina in modo da eliminare i batteri; versane poi due quantità uguali nelle due capsule di Petri. Copri le capsule e lascia che la gelatina si raffreddi e indurisca. Fino a questo momento la gelatina è sterile, cioè priva di germi. Ora tocca con le dita o con oggetti diversi la gelatina di uno dei due contenitori, poi ricopri nuovamente.
 
+ .. image:: 09_dil_term_gas.png
+   :height: 400 px
+   :align: center
+   
+
 CHE COSA OSSERVO
+-----------------
 
 Dopo qualche giorno, sulla gelatina che avevi toccato compaiono macchie di dimensioni, colori e aspetto diversi, mentre sull’altra gelatina mom si osservano cambiamenti.
 
 COME LO SPIEGO
+---------------
 
-Le macchie sono formate da batteri di specie diverse, che erano presenti sulle dita o sugli oggetti venuti a contatto con la gelatina mentre sulla gelatina che non è stata toccata non si osservano sviluppi di batteri.
 
-TEMPO: alcuni giorni
+.. hint::  
+  Le macchie sono formate da batteri di specie diverse, che erano presenti sulle dita o sugli oggetti venuti a contatto con la gelatina mentre sulla gelatina che non è stata toccata non si osservano sviluppi di batteri.
+
+
