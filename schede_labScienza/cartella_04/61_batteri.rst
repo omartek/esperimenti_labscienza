@@ -6,6 +6,7 @@ OSSERVIAMO I BATTERI
    
 CHE COSA SERVE
 ----------------
+
 -Gelatina per brodo
 -due capsule di Petri
 
