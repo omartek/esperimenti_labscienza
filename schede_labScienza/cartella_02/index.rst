@@ -24,11 +24,11 @@ Contents:
    26_princ_di_Pascal.rst
    28_elettroscopio.rst
    2_densita.rst
- 	30_elettrolisi.rst
-   32_magnete_permanente.txt
-   34_suono_vibrazione.txt
-   36_riflessione.txt
-   38_dispersione_luce.txt
-   4_soluzione.txt
-   6_capill_vetrini.txt
-   8_agit_term.txt
+   30_elettrolisi.rst
+   32_magnete_permanente.rxt
+   34_suono_vibrazione.rxt
+   36_riflessione.rxt
+   38_dispersione_luce.rxt
+   4_soluzione.rxt
+   6_capill_vetrini.rxt
+   8_agit_term.rxt
