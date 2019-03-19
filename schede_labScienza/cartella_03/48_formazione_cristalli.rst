@@ -1,6 +1,11 @@
 LA FORMAZIONE DEI CRISTALLI
+===========================
+
+ .. note::
+   **TEMPO**: qualche giorno
 
 CHE COSA SERVE
+---------------
 
 Un pentolino, un fornello o una piastra riscaldante, acqua, sale da cucina, un filo di cotone scuro, un cucchiaino, un bastoncino, una lente di ingrandimento
 
