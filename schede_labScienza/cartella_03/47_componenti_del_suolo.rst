@@ -1,6 +1,11 @@
 SEPARIAMO I COMPONENTI DEL SUOLO
+=================================
+
+.. note::
+   **TEMPO**: alcune ore
 
 CHE COSA SERVE
+---------------
 
 Un barattolo di vetro con il tappo, acqua, due manciate di terreno
 
