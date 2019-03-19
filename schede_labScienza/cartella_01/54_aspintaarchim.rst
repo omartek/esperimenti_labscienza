@@ -2,7 +2,7 @@ CALCOLIAMO LA SPINTA
 ==========================
 
 .. note::
-**TEMPO**: 20 minuti
+  **TEMPO**: 20 minuti
 
 CHE COSA SERVE
 -----------------
