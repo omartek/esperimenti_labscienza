@@ -8,7 +8,11 @@ LA COMPOSIZIONE DELLO ZUCCHERO
 CHE COSA SERVE
 --------------
 
-Un po’ di zucchero comune (saccarosio), una provetta, un fornello ad alcol o una piastra elettrica, una bacchetta di vetro, una pinza di legno.
+- un po’ di zucchero comune (saccarosio)
+- una provetta
+- un fornello ad alcol o una piastra elettrica
+- una bacchetta di vetro
+- una pinza di legno
 
 COME SI PROCEDE
 ---------------
