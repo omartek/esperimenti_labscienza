@@ -8,20 +8,28 @@ NON TUTTE LE SOSTANZE SI SCIOLGONO IN ACQUA
 CHE COSA SERVE
 --------------
 
-6 BICCHIERI D’ACQUA, 6 CUCCHIAINI DA TE, ACQUA, ALCOL, BURRO, ZUCCHERO, BICARBONATO DI SODIO, OLIO, CERA
+- 6 bicchieri d’acqua
+- 6 cucchiaini da te
+- acqua
+- alcol
+- burro
+- zucchero
+- bicarbonato di sodio
+- olio
+- cera
 
 COME SI PROCEDE
 ---------------
 
-RIEMPI A METÀ CON ACQUA I BICCHIERI E IN CIASCUNO VERSA UN CUCCHIAIO DI UNA DELLE SOSTANZE MESCOLA E OSSERVA COSA SUCCEDE NEI VARI BICCHIERI.
+riempi a metà con acqua i bicchieri e in ciascuno versa un cucchiaio di una delle sostanze mescola e osserva cosa succede nei vari bicchieri.
 
 CHE COSA OSSERVO
 ----------------
 
-IL BICARBONATO, LO ZUCCHERO E L’ALCOL SI SCIOLGONO; IL BURRO, L’OLIO E LA CERA NO.
+il bicarbonato, lo zucchero e l’alcol si sciolgono; il burro, l’olio e la cera no.
 
 COME LO SPIEGO
 --------------
 
 .. hint::  
-  LA MOLECOLA DELL’ACQUA È POLARE, CIOÈ PRESENTA UN POLO CON CARICA POSITIVA E UNO CON CARICA NEGATIVA. LA PRESENZA DI QUESTA CARICA ELETTRICA FA SÌ CHE LA MOLECOLA DELL’ACQUA RIESCE A SPEZZARE LE MOLECOLE CHE SONO ANCH’ESSE POLARI, CIOÈ CHE PRESENTANO CARICHE POSITIVE E NEGATIVE, COME QUELLA DEL BICARBONATO DI SODIO, DELLO ZUCCHERO E DELL’ALCOL. L’ACQUA NON RIESCE A SCIOGLIERE LE MOLECOLE DELL’OLIO, DEL BURRO E DELLA CERA, CHE NON SONO MOLECOLE POLARI.
+  la molecola dell’acqua è polare, cioè presenta un polo con carica positiva e uno con carica negativa. la presenza di questa carica elettrica fa sì che la molecola dell’acqua riesce a spezzare le molecole che sono anch’esse polari, cioè che presentano cariche positive e negative, come quella del bicarbonato di sodio, dello zucchero e dell’alcol. l’acqua non riesce a sciogliere le molecole dell’olio, del burro e della cera, che non sono molecole polari.
