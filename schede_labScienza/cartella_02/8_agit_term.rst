@@ -27,5 +27,3 @@ COME LO SPIEGO
 .. hint::
 
     L’aumento della temperatura è causato dal movimento delle particelle del corpo, cioè dalla sua agitazione termica. Tale agitazione aumenta quando il corpo viene posto su una fonte di calore o quando le particelle aumentano il loro moto in seguito ad una agitazione meccanica.
-
-
