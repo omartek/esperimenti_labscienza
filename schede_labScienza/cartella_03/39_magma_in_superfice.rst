@@ -10,6 +10,10 @@ Che cosa serve
 - Una bottiglia di acqua gassata in plastica
 - un colorante alimentare
 
+.. image:: 43_barometro.jpg
+   :height: 400 px
+   :align: center
+
 Come si procede
 ------------------
 
