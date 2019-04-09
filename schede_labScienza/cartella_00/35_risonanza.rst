@@ -1,19 +1,24 @@
 LA RISONANZA
+============
 
+.. note::
+   **TEMPO**: 10 minuti
+   
 CHE COSA SERVE
-
+--------------
 Un martelletto di gomma, tre diapason di cui due della stessa frequenza
 
 COME SI PROCEDE
+--------------
 
 Sistema su un tavolo i due diapason della stessa frequenza e percuotine uno. Dopo aver osservato che cosa succede, sostituisci uno dei due diapason con quello che produce un suono di diversa frequenza e ripeti l’esperimento.
 
 CHE COSA OSSERVO
+----------------
 
 Quando i due diapason hanno la stessa frequenza di oscillazione, quello che vibra trasmette le vibrazioni al secondo. Quando la frequenza di oscillazione è diversa, non si osservano vibrazioni nel secondo diapason.
 
 COME LO SPIEGO
-
-Quando percuoti il diapason, esso emette onde sonore che hanno la stessa frequenza con cui il diapason oscilla. Il secondo diapason, raggiunto dalle onde emesse dal primo, oscilla solo nel caso in cui la sua frequenza di oscillazione sia la stessa del primo, ragione per cui è possibile osservare il fenomeno della RISONANZA.
-
-TEMPO: 10 MINUTI
+--------------
+..hint::
+  Quando percuoti il diapason, esso emette onde sonore che hanno la stessa frequenza con cui il diapason oscilla. Il secondo diapason, raggiunto dalle onde emesse dal primo, oscilla solo nel caso in cui la sua frequenza di oscillazione sia la stessa del primo, ragione per cui è possibile osservare il fenomeno della RISONANZA.
