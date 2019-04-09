@@ -24,3 +24,9 @@ Contents:
    19_i_grassi.rst
    21_proteine.rst
    25_fluido_spinta_archimede.rst
+   27_elettrizzazione.rst
+   29_effetto_termico_corrente.rst
+   31_bussola.rst
+   33_elettrocalamita.rst
+   35_risonanza.rst
+   37_rifrazione.rst
