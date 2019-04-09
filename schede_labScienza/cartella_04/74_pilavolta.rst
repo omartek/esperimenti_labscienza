@@ -7,7 +7,14 @@ COSTRUISCI LA PILA DI VOLTA CON ACQUA E SALE
 CHE COSA SERVE
 --------------
 
-Tre bicchieri, acqua, sale, un cucchiaino, tre lamine di rame e tre di zinco di circa 3 per 8 cm, un led, 4 cavetti con coccodrilli, un tester(facoltativo)
+- tre bicchieri
+- acqua
+- sale
+- un cucchiaino
+- tre lamine di rame e tre di zinco di circa 3 per 8 cm
+- un led
+- 4 cavetti con coccodrilli
+- un tester(facoltativo)
 
 COME SI PROCEDE
 ---------------
