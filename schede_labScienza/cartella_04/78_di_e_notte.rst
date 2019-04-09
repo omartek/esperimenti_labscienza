@@ -21,5 +21,6 @@ Il globo viene illuminato per circa metà. Quando si ruota il globo, cambiano si
 
 COME LO SPIEGO
 --------------
+
 .. hint::   
-  La lampada simula il sole. Quando l’Italia si trova proprio di fronte alla lampada, simuli le condizioni che si verificano a mezzogiorno; ruotando lentamente il globo da ovest verso est (ovvero verso destra) riproduci il moto di rotazione della terra. Quando l’Italia passa nella metà del globo in ombra, il sole tramonta. Continuando a ruotare il globo per far tornare l’Italia davanti alla lampada, è come se facessi trascorrere un giorno completo (il globo avrà allora compiuto una rotazione di 360°). La terra effettua una rotazione completa su se stessa in 24 ore, dunque in 24 ore ruota di 360°.
+La lampada simula il sole. Quando l’Italia si trova proprio di fronte alla lampada, simuli le condizioni che si verificano a mezzogiorno; ruotando lentamente il globo da ovest verso est (ovvero verso destra) riproduci il moto di rotazione della terra. Quando l’Italia passa nella metà del globo in ombra, il sole tramonta. Continuando a ruotare il globo per far tornare l’Italia davanti alla lampada, è come se facessi trascorrere un giorno completo (il globo avrà allora compiuto una rotazione di 360°). La terra effettua una rotazione completa su se stessa in 24 ore, dunque in 24 ore ruota di 360°.
