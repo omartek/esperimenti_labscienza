@@ -1,5 +1,5 @@
 MISURIAMO LA RESISTENZA DEL CORPO UMANO
- ========================================
+========================================
 
 .. note::
    **TEMPO**: 10 minuti
