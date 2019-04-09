@@ -6,11 +6,12 @@ LA LIEVITAZIONE DELL’IMPASTO PER IL PANE
 
 CHE COSA SERVE
 -------------------
--Farina bianca (200 grammi)
--lievito di birra
--acqua tiepida
--una ciotola
--un panno di lana
+
+- Farina bianca (200 grammi)
+- lievito di birra
+- acqua tiepida
+- una ciotola
+- un panno di lana
 
 .. image:: 63_lievitaz_pane.png
    :height: 400 px
@@ -18,10 +19,12 @@ CHE COSA SERVE
 
 COME SI PROCEDE
 -----------------------
+
 Versa la farina nella ciotola e aggiungi, dopo averlo sciolto in un po’ di acqua tiepida, il lievito di birra. Impasta la farina aggiungendo acqua tiepida se l’impasto è troppo duro. Dopo aver lavorato per bene l’impasto, copri la ciotola con il panno di lana. Osserva, di tanto in tanto, cosa succede sotto la coperta.
 
 CHE COSA OSSERVO
 ----------------------
+
 Dopo alcune ore l’impasto è aumentato do volume; al suo interno puoi osservare delle “bolle d’aria”.
 
 COME LO SPIEGO
