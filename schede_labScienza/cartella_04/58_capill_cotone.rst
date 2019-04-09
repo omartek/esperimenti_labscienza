@@ -2,14 +2,14 @@ VASI COMUNICANTI CAPILLARI COTONE IDROFILO
 =============================================
 
 .. note::
-**TEMPO**: 10 minuti
+   **TEMPO**: 10 minuti
 
 CHE COSA SERVE
 ----------------
 
--Vasi comunicanti con tubicini capillari
--cotone idrofilo
--liquido colorato
+- Vasi comunicanti con tubicini capillari
+- cotone idrofilo
+- liquido colorato
 
 .. image:: 58_capill_cotone.png
    :height: 400 px
@@ -17,10 +17,12 @@ CHE COSA SERVE
    
 COME SI PROCEDE
 -----------------
+
 Versa del liquido colorato in uno dei tubicini dei vasi capillari e quando i livelli si sono stabilizzati, appoggia un pezzetto di cotone sul tubo di diametro maggiore.
 
 CHE COSA OSSERVO
 -------------------
+
 Nei tubicini capillari il liquido colorato raggiunge un livello rispetto ai tubicini di sezione maggiore; inoltre il cotone si colora via via anche per la parte che emerge dal tubicino.
 
 COME LO SPIEGO
