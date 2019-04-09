@@ -8,7 +8,7 @@ COME COSTRUIRE UN’ELLISSE
 CHE COSA SERVE
 ---------------
 
--Un foglio
+- Un foglio
 - una matita
 - una tavoletta di legno un po’ più grande del foglio
 - una riga e una squadra da disegno
