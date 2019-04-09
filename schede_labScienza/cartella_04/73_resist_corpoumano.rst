@@ -1,4 +1,4 @@
-﻿MISURIAMO LA RESISTENZA DEL CORPO UMANO
+MISURIAMO LA RESISTENZA DEL CORPO UMANO
  ========================================
 
 .. note::
