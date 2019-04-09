@@ -29,5 +29,5 @@ COME LO SPIEGO
 ----------------
 
 .. hint::
-  Ruotando, la matita viene a trovarsi via via in punti diversi a distanze diverse da ciascun chiodo. Analogamente, percorrendo la loro orbita intorno al Sole i pianeti variano continuamente la loro distanza da esso. Avvicinando tra loro i due chiodi, avvicinando quindi i due fuochi dell’ellisse, la curva tende ad assomigliare sempre più ad una circonferenza.
+Ruotando, la matita viene a trovarsi via via in punti diversi a distanze diverse da ciascun chiodo. Analogamente, percorrendo la loro orbita intorno al Sole i pianeti variano continuamente la loro distanza da esso. Avvicinando tra loro i due chiodi, avvicinando quindi i due fuochi dell’ellisse, la curva tende ad assomigliare sempre più ad una circonferenza.
 
