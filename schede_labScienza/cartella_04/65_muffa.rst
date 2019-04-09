@@ -9,7 +9,7 @@ CHE COSA SERVE
 
 - Due arance
 - due pezzi di pane raffermo
- -una lente d’ingrandimento
+- una lente d’ingrandimento
  
  .. image:: 65_muffa.png
    :height: 400 px
