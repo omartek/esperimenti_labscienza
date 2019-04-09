@@ -30,3 +30,4 @@ Contents:
    67_pianteeluce.rst
    68_clon_geranio.rst
    69_germin_semi.rst
+   71_dilat_solidi.rst
