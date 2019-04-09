@@ -8,6 +8,7 @@ CHE COSA SERVE
 --------------
 
 Servono:
+
 - un dinamometro
 - un sasso legato con una cordicella
 - un cilindro graduato
