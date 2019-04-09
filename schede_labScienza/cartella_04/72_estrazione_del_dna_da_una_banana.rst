@@ -32,5 +32,6 @@ Si osserva una stratificazione e quindi una separazione tra l’alcol e la soluz
 
 COME LO SPIEGO
 --------------
+
 .. hint::  
-  Poiché il DNA è insolubile in alcol esso si separa dal resto della soluzione che avevamo preparato e si concentra al centro tra l’alcol e la soluzione.
+Poiché il DNA è insolubile in alcol esso si separa dal resto della soluzione che avevamo preparato e si concentra al centro tra l’alcol e la soluzione.
