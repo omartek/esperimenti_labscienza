@@ -7,7 +7,12 @@ LE CORRENTI CONVETTIVE
 CHE COSA SERVE
 --------------
 
-Un fornelletto, una retina spargifiamma, un recipiente di vetro da fuoco, acqua, alcuni chicchi di riso (oppure piccoli trucioli di legno o un po’ di segatura), tappi di sughero, una pentola larga e bassa
+- un fornelletto
+- una retina spargifiamma
+- un recipiente di vetro da fuoco
+- acqua, alcuni chicchi di riso (oppure piccoli trucioli di legno o un po’ di segatura)
+- tappi di sughero
+- una pentola larga e bassa
 
 COME SI PROCEDE
 ---------------
