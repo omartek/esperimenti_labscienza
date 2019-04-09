@@ -3,7 +3,7 @@ CLONIAMO UN GERANIO
 
 
 .. note::
-  TEMPO: qualche settimana
+  **TEMPO**: qualche settimana
   
 CHE COSA SERVE
 ---------------
