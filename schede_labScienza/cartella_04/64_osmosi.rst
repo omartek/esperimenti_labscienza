@@ -7,9 +7,9 @@ L’OSMOSI
 CHE COSA SERVE
 -----------------
 
--Una patata
--un coltello e un cucchiaio
--zucchero
+- Una patata
+- un coltello e un cucchiaio
+- zucchero
 
 .. image:: 64_osmosi.png
    :height: 400 px
