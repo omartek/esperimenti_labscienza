@@ -29,4 +29,4 @@ Contents:
    66_traspo_linfa.rst
    67_pianteeluce.rst
    68_clon_geranio.rst
-   
+   69_germin_semi.rst
