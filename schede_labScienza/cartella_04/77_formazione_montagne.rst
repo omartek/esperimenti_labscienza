@@ -21,8 +21,9 @@ CHE COSA OSSERVO
 Gli strati di plastilina si accorciano e formano delle pieghe: il fenomeno è tanto più evidente quanto maggiore è la forza esercitata.
 
 COME LO SPIEGO
---------------
+---------------
+
 .. hint::
-  I due vocabolari in movimento rappresentano il fenomeno di compressione della litosfera e gli strati di plastilina le parti delle placche che si corrugano per dare origine a una catena montuosa. Quando due placche continentali vengono compresse, gli strati rocciosi si deformano e si sollevano: questo è uno dei modi in cui si forma una catena montuosa.
+I due vocabolari in movimento rappresentano il fenomeno di compressione della litosfera e gli strati di plastilina le parti delle placche che si corrugano per dare origine a una catena montuosa. Quando due placche continentali vengono compresse, gli strati rocciosi si deformano e si sollevano: questo è uno dei modi in cui si forma una catena montuosa.
 
 
