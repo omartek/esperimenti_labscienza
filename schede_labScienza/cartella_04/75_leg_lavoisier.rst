@@ -27,6 +27,6 @@ COME LO SPiEGO
 --------------
 
 .. hint::
-  Per effetto della reazione chimica che avviene tra il preparato e l'acqua, si produce anidride carbonica che � il gas responsabile del rigonfiamento del palloncino; poich� il palloncino stesso impedisce al gas di fuoriuscire il peso complessivo rimane lo stesso a conferma della legge di Lavoisier. Se togliamo il palloncino dalla bottiglia il gas si disperde nell'aria e il peso diminuisce di una quantità pari al peso del gas stesso che può quindi essere calcolato come differenza tra peso iniziale e finale.
+Per effetto della reazione chimica che avviene tra il preparato e l'acqua, si produce anidride carbonica che � il gas responsabile del rigonfiamento del palloncino; poich� il palloncino stesso impedisce al gas di fuoriuscire il peso complessivo rimane lo stesso a conferma della legge di Lavoisier. Se togliamo il palloncino dalla bottiglia il gas si disperde nell'aria e il peso diminuisce di una quantità pari al peso del gas stesso che può quindi essere calcolato come differenza tra peso iniziale e finale.
 
 
