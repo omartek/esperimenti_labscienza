@@ -1,4 +1,9 @@
 LA LUMINOSITA’ DELLE STELLE
+============================
+
+.. note::
+   **TEMPO**: 20 minuti
+
 
 CHE COSA SERVE
 
