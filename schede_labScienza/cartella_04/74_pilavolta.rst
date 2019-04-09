@@ -28,7 +28,8 @@ Il tester misura un voltaggio di circa 2,4 V mentre il led si accende.
 
 COME LO SPIEGO
 --------------
+
 .. hint::
-  Il sale(che in soluzione si dissocia in ioni), sottrae elettroni al rame e li convoglia sullo zinco. In tal modo la lamina di rame si carica positivamente mentre quella di zinco si carica negativamente.
+Il sale(che in soluzione si dissocia in ioni), sottrae elettroni al rame e li convoglia sullo zinco. In tal modo la lamina di rame si carica positivamente mentre quella di zinco si carica negativamente.
 
 Quando le lamine vengono collegate si genera quindi una corrente elettrica che va dallo zinco al rame.
