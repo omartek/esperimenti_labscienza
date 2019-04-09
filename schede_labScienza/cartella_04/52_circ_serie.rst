@@ -6,14 +6,14 @@ COSTRUIAMO UN CIRCUITO IN SERIE
    
 CHE COSA SERVE
 ----------------
--Una batteria da 9 volt
--carta alluminio
--tre led uguali
--un pannello di cartone rigido 25 per 30 centimetri
--nastro adesivo
--forbici
--colla
--pennellino
+- Una batteria da 9 volt
+- carta alluminio
+- tre led uguali
+- un pannello di cartone rigido 25 per 30 centimetri
+- nastro adesivo
+- forbici
+- colla
+- pennellino
 
 COME SI PROCEDE
 -----------------
