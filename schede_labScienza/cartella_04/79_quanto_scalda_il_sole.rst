@@ -24,6 +24,6 @@ COME LO SPIEGO
 ---------------
 
 .. hint::
-  Il riscaldamento è inversamente proporzionale all’estensione della superficie illuminata : più l’angolo d’inclinazione dei raggi solari si avvicina a 90°, maggiore è il riscaldamento; viceversa, minore è l’angolo di inclinazione, minore risulta il riscaldamento, poiché i raggi luminosi devono distribuirsi su una superficie maggiore.
+Il riscaldamento è inversamente proporzionale all’estensione della superficie illuminata : più l’angolo d’inclinazione dei raggi solari si avvicina a 90°, maggiore è il riscaldamento; viceversa, minore è l’angolo di inclinazione, minore risulta il riscaldamento, poiché i raggi luminosi devono distribuirsi su una superficie maggiore.
 
 
