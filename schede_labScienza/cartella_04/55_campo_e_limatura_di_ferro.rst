@@ -2,7 +2,7 @@ CAMPO MAGNETICO E LIMATURA DI FERRO
 ====================================
 
 .. note::
-**TEMPO**: 15 minuti
+   **TEMPO**: 15 minuti
 
 CHE COSA SERVE
 ----------------
