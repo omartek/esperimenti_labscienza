@@ -25,5 +25,6 @@ Gonfiando il palloncino, aumenta sia la distanza tra i vari punti disegnati sia 
 
 COME LO SPIEGO
 --------------
+
 .. hint:: 
-  Il palloncino rappresenta l’universo e, gonfiandolo progressivamente, simuli la sua espansione conseguente al Big bang. Ogni punto colorato rappresenta una galassia; il punto colorato diversamente simboleggia la Via Lattea. Punti che sul palloncino sgonfio erano stati disegnati vicini si allontanano tra loro meno che punti inizialmente più lontani, proprio come galassie relativamente vicine si allontanano meno di galassie lontane tra loro.
+Il palloncino rappresenta l’universo e, gonfiandolo progressivamente, simuli la sua espansione conseguente al Big bang. Ogni punto colorato rappresenta una galassia; il punto colorato diversamente simboleggia la Via Lattea. Punti che sul palloncino sgonfio erano stati disegnati vicini si allontanano tra loro meno che punti inizialmente più lontani, proprio come galassie relativamente vicine si allontanano meno di galassie lontane tra loro.
