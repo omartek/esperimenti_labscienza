@@ -17,7 +17,7 @@ Ogni gruppo ha bisogno di:
 
 .. image:: 01_volgoccia.png
    :height: 400 px
-   :align: center
+   :align: center 
 
 COME SI PROCEDE
 ---------------
