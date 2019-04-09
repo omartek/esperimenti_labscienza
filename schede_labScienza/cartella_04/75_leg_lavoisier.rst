@@ -1,20 +1,32 @@
 LA LEGGE DI LAVOISIER
 =====================
 
-CHE COSA SERVE
+.. note::
+   **TEMPO**: 20 minuti
 
-Una bottiglia di plastica da 1,5 litri, un palloncino di gomma, bilancia tecnica, un imbuto, acqua, carta e penna, tre bustine di preparato per acqua frizzante.
+
+CHE COSA SERVE
+--------------
+
+- Una bottiglia di plastica da 1,5 litri
+- un palloncino di gomma, bilancia tecnica
+- un imbuto, acqua, carta e penna
+- tre bustine di preparato per acqua frizzante.
 
 COME SI PROCEDE
+---------------
 
 Versiamo un litro di acqua nella bottiglia e mettiamola sulla bilancia insieme al palloncino e alle tre bustine di preparato per acqua frizzante. Scriviamo sul nostro foglio il risultato del peso complessivo. Utilizzando l'imbuto versiamo nella bottiglia il contenuto delle tre bustine ed il pi� velocemente possibile chiudiamo la bottiglia con il palloncino facendo quindi in modo che il gas prodotto nella reazione non si disperda nell'aria. Mettiamo quindi nuovamente sulla bilancia la bottiglia, chiusa con il palloncino, e le tre bustine vuote.
 
 CHE COSA OSSERVO
+----------------
 
 Il palloncino si gonfia velocemente ed il peso della bottiglia e delle bustine � complessivamente lo stesso. Se togliamo il palloncino dalla bottiglia il peso diminuisce di alcuni grammi.
 
 COME LO SPiEGO
+--------------
 
-Per effetto della reazione chimica che avviene tra il preparato e l'acqua, si produce anidride carbonica che � il gas responsabile del rigonfiamento del palloncino; poich� il palloncino stesso impedisce al gas di fuoriuscire il peso complessivo rimane lo stesso a conferma della legge di Lavoisier. Se togliamo il palloncino dalla bottiglia il gas si disperde nell'aria e il peso diminuisce di una quantità pari al peso del gas stesso che può quindi essere calcolato come differenza tra peso iniziale e finale.
+.. hint::
+  Per effetto della reazione chimica che avviene tra il preparato e l'acqua, si produce anidride carbonica che � il gas responsabile del rigonfiamento del palloncino; poich� il palloncino stesso impedisce al gas di fuoriuscire il peso complessivo rimane lo stesso a conferma della legge di Lavoisier. Se togliamo il palloncino dalla bottiglia il gas si disperde nell'aria e il peso diminuisce di una quantità pari al peso del gas stesso che può quindi essere calcolato come differenza tra peso iniziale e finale.
 
-TEMPO: 20 minuti
+
