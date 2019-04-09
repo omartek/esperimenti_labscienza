@@ -30,5 +30,18 @@ Contents:
    67_pianteeluce.rst
    68_clon_geranio.rst
    69_germin_semi.rst
-   70_
+   70_decompositori.rst
    71_dilat_solidi.rst
+   72_estrazione_del_dna_da_una_banana.rst
+   73_resist_corpoumano.rst
+   74_pilavolta.rst
+   75_leg_lavoisier.rst
+   76_Le_correnti_convettive.rst
+   77_formazione_montagne.rst
+   78_di_e_notte.rst
+   79_quanto_scalda_il_sole.rst
+   80_le_eclissi.rst
+   81_ellisse.rst
+   82_luminos_stelle.rst
+   83_espansione_universo.rst
+   
