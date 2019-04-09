@@ -31,4 +31,4 @@ COME LO SPIEGO
 --------------
 
 .. hint::   
-  Il materiale presente nel terreno ha subito l'azione degli organismi decompositori, i quali però hanno agito sul materiale organico, che è biodegradabile, trasformandolo in sostanza inorganica nuovamente disponibile.Se analizzassimo il terreno, alla fine lo troveremo leggermente più ricco di humus.
+Il materiale presente nel terreno ha subito l'azione degli organismi decompositori, i quali però hanno agito sul materiale organico, che è biodegradabile, trasformandolo in sostanza inorganica nuovamente disponibile.Se analizzassimo il terreno, alla fine lo troveremo leggermente più ricco di humus.
