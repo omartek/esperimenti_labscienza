@@ -1,10 +1,19 @@
 PREPARAZIONE DI UNA SOLUZIONE A CONCENTRAZIONE NOTA
+====================================================
 
 CHE COSA SERVE
+--------------
 
-Bilancia, cilindro graduato da 50 ml, bacchetta di vetro, sale, acqua distillata, alcol, zucchero
+- Bilancia
+- cilindro graduato da 50 ml
+- bacchetta di vetro
+- sale
+- acqua distillata
+ -alcol
+ - zucchero
 
 COME SI PROCEDE
+---------------
 
 La concentrazione di una soluzione è la grandezza che esprime il rapporto tra la quantità di soluto e la quantità di soluzione o di solvente. Per poter preparare una soluzione a concentrazione nota bisogna perciò fare alcuni calcoli (proporzioni, percentuali) ed eseguire semplici procedure. E’ necessario comunque, fare attenzione all’unità di misura utilizzata per esprimere la concentrazione:
 
