@@ -1,6 +1,12 @@
 COME COSTRUIRE UN’ELLISSE
+==========================
+
+.. note::
+   **TEMPO**: 15 minuti
+
 
 CHE COSA SERVE
+---------------
 
 Un foglio, una matita, una tavoletta di legno un po’ più grande del foglio, una riga e una squadra da disegno, due chiodi, un piccolo martello, un po’ di colla o del nastro adesivo, un pezzo di spago sottile lungo circa 30 cm
 
@@ -16,4 +22,3 @@ COME LO SPIEGO
 
 Ruotando, la matita viene a trovarsi via via in punti diversi a distanze diverse da ciascun chiodo. Analogamente, percorrendo la loro orbita intorno al Sole i pianeti variano continuamente la loro distanza da esso. Avvicinando tra loro i due chiodi, avvicinando quindi i due fuochi dell’ellisse, la curva tende ad assomigliare sempre più ad una circonferenza.
 
-TEMPO: 15 minuti
