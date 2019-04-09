@@ -24,6 +24,9 @@ Contents:
    61_batteri.rst
    62_protisti.rst
    63_lievitaz_pane.rst
-   
+   64_osmosi.rst
+   65_muffa.rst
+   66_traspo_linfa.rst
+   67_pianteeluce.rst
    
    
