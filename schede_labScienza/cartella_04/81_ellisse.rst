@@ -8,12 +8,13 @@ COME COSTRUIRE UN’ELLISSE
 CHE COSA SERVE
 ---------------
 
-Un foglio, una matita,
+-Un foglio
+- una matita
 - una tavoletta di legno un po’ più grande del foglio
 - una riga e una squadra da disegno
 - due chiodi, un piccolo martello
 - un po’ di colla o del nastro adesivo
--un pezzo di spago sottile lungo circa 30 cm
+- un pezzo di spago sottile lungo circa 30 cm
 
 COME SI PROCEDE
 ----------------
