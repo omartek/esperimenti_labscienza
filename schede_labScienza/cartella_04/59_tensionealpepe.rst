@@ -2,13 +2,14 @@ TENSIONE SUPERFICIALE AL PEPE NERO
 ====================================
 
 .. note::
-**TEMPO**: 10 minuti
+   **TEMPO**: 10 minuti
 
 CHE COSA SERVE
 ----------------
--Una bacinella del pepe macinato
--acqua di rubinetto
--detersivo per piatti
+
+- Una bacinella del pepe macinato
+- acqua di rubinetto
+- detersivo per piatti
 
 .. image:: 59_tensionealpepe.png
    :height: 400 px
@@ -16,10 +17,12 @@ CHE COSA SERVE
 
 COME SI PROCEDE
 -----------------
+
 Riempi a metà la bacinella con acqua e spargi su di essa il pepe fino a formarne uno straterello.Immergi delicatamente un dito nella vaschetta in più punti come se dovessi fare dei buchi, poi metti un po’ di detersivo nel dito e immergilo di nuovo in acqua.
 
 CHE COSA OSSERVO
 ------------------
+
 Il pepe resta in superficie, immergendo il dito nell’acqua ovviamente esso si sposta, quando tolgo il dito resta una zona povera di pepe che tuttavia dopo poco tempo viene di nuovo ricoperta dal pepe stesso. Quando immergo il dito sporco di detersivo il pepe si sposta velocemente verso il bordo del recipiente lasciando scoperta la zona centrale che non viene più ricoperta dal pepe.
 
 COME LO SPIEGO
