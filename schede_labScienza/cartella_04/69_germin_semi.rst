@@ -5,6 +5,7 @@ LA GERMINAZIONE DEI SEMI
    **TEMPO**: Alcuni giorni
    
 CHE COSA SERVE
+---------------
 
 - 12 semi di fagiolo
 - 3 barattoli di vetro
