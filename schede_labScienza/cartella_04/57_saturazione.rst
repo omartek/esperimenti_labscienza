@@ -2,16 +2,17 @@ SATURAZIONE DI UNA SOLUZIONE
 ===============================
 
 .. note::
-**TEMPO**: 15 minuti
+   **TEMPO**: 15 minuti
 
 CHE COSA SERVE
 -----------------
--Un beker da 100 ml
--sale da cucina
--un cucchiaino 
--una bilancia tecnica
--una bacchetta di vetro
--acqua distillata
+
+- Un beker da 100 ml
+- sale da cucina
+- un cucchiaino 
+- una bilancia tecnica
+- una bacchetta di vetro
+- acqua distillata
 
 .. image:: 57_saturazione.png
    :height: 400 px
@@ -19,10 +20,12 @@ CHE COSA SERVE
 
 COME SI PROCEDE
 ------------------
+
 Versa nel beker 50 ml di acqua ed aggiungi, dopo averlo pesato, 5g di sale e mescola per bene con la bacchetta. Quando la soluzione diventa limpida ripeti la procedura aggiungendo altri 5g di sale e poi ancora 5g, ed ancora 5g.
 
 CHE COSA OSSERVO
 ------------------
+
 Alla quarta aggiunta di sale, nonostante il rimescolamento della soluzione, il sale non riesce a sciogliersi completamente ed una certa quantità si deposita nel fondo del beker(precipitato). Ripetendo lo stesso esperimento raddoppiando ovvero dimezzando la quantità di acqua, anche la quantità di sake che riesce a sciogliersi raddoppia ovvero dimezza.
 
 COME LO SPIEGO
