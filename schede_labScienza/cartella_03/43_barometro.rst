@@ -17,6 +17,11 @@ CHE COSA SERVE
 - carta millimetrata
 - una matita rossa
 
+.. image:: 43_barometro.jpg
+   :height: 400 px
+   :align: center
+
+
 COME SI PROCEDE
 ----------------
 
